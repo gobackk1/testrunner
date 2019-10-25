@@ -1,0 +1,11 @@
+{
+  "name": "travis-sample",
+  "version": "0.0.1",
+  "description": "travis sample",
+  "scripts": {
+    "test": "./node_modules/.bin/testem"
+  },
+  "dependencies": {
+    "testem": "0.2.x"
+  }
+}
